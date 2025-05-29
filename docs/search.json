@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nora Smith",
@@ -19,5 +12,12 @@
     "title": "Nora Smith",
     "section": "Education",
     "text": "Education\nUniversity of California, Santa Barbara | Goleta, CA\nBS in Environmental Studies (Expected June 2025)\nAbraham Lincoln High School | San Jose, CA (2021)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

@@ -9,8 +9,13 @@ about:
   links:
     - text: Email
       href: mailto:norsmith025@gmail.com
+      icon: enveloope-paper-heart
     - text: GitHub
       href: github.com/norsmith025
+      icon: github
+    - text: Resume
+      href: resume.pdf
+      icon: file-earmark-person
 ---
 
 Hey there, thanks for stopping by my website! I'm Nora and I'm a fourth-year undergraduate at UC Santa Barbara majoring in Environmental Studies.
