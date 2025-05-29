@@ -1,5 +1,24 @@
 ---
 title: "Nora Smith"
+image: minnow.jpeg
+toc: false
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: Email
+      href: mailto:norsmith025@gmail.com
+    - text: GitHub
+      href: github.com/norsmith025
 ---
 
 Hey there, thanks for stopping by my website! I'm Nora and I'm a fourth-year undergraduate at UC Santa Barbara majoring in Environmental Studies.
+
+## Education
+
+**University of California, Santa Barbara** \| Goleta, CA
+
+BS in Environmental Studies (Expected June 2025)
+
+**Abraham Lincoln High School** \| San Jose, CA (2021)
