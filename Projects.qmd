@@ -1,11 +1,38 @@
 ---
 title: "Projects"
+toc: false
 ---
 
-hockey story map
+Here are some projects that I've worked on during my time at UCSB.
 
-envs154 project map
+<div style="text-align: center;">
 
-envs193ds hw 3
+### Critiquing an NHL Fan-base Map (Made in GEOG W 12):
 
-envs137 plan
+<iframe src="https://storymaps.arcgis.com/stories/2b60ceb2398a40609d3237fb208d33a1" width="90%" height="450px" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+<div style="text-align: center;">
+
+### Statistical Analysis (From ENVS193DS):
+
+<iframe src="https://norsmith025.github.io/ENVS-193DS_spring-2025_final/envs193ds_spr25_final/envs193ds_spr25_final.html" width="90%" height="600px" frameborder="0"></iframe>
+
+</div>
+
+<div style="text-align: center;">
+
+### Water Resiliency Conservation Plan for Jalama Valley Ranch (From ENVS137):
+
+<iframe src="ENVS137.WaterResiliency.SPR25-1.pdf" width="90%" height="600px" frameborder="0"></iframe>
+
+</div>
+
+<div style="text-align: center;">
+
+### Habitat Corridor Threats in California (Made in ENVS154):
+
+<iframe src="https://storymaps.arcgis.com/stories/500c2a3c646843bdb1463ab200f3e922" width="90%" height="600px" frameborder="0" allowfullscreen></iframe>
+
+</div>
