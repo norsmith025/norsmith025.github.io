@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Nora Smith"
+  favicon: NS_logo_transparent.png
   navbar:
     left:
       - href: index.qmd
@@ -15,8 +16,8 @@ website:
 
 format:
   html:
-    theme: journal
-    css: styles.css
+    theme: styles.scss
+    mainfont: Inconsolata
     toc: true
     page-layout: full
 

@@ -1,1 +1,15 @@
 /* css styles */
+/*-- scss: defaults --*/
+
+// Colors
+$dark-green: #214214
+$sage-green: #89a67c
+$cream: #f0e9d8
+$light-brown: #8f7469
+$dark-brown: #483b32
+$almost-white: #fffcf5
+
+// Base document Colors
+$navbar-bg: $cream; // navbar background
+$navbar-fg: $dark-green // navbar foreground
+$nabvar-hl: $sage-green // hover highlight over navbar 
