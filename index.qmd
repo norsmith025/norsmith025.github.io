@@ -14,7 +14,7 @@ about:
       href: https://github.com/norsmith025
       icon: github
     - text: Resume
-      href: resume.pdf
+      href: resume_sept_24.pdf
       icon: file-earmark-person
 ---
 

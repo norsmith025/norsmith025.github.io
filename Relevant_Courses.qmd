@@ -1,5 +1,6 @@
 ---
 title: "Relevant Courses"
+toc: FALSE
 ---
 
 These are some of the courses that I've taken that have helped me expand my skill sets. I have included an example of a project from each course in the Projects tab of this site.
