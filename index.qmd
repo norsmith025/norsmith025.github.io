@@ -1,6 +1,6 @@
 ---
 title: "Nora Smith"
-image: minnow.jpeg
+image: nora_henleygate.jpeg
 toc: false
 about:
   template: trestles
@@ -9,16 +9,16 @@ about:
   links:
     - text: Email
       href: mailto:norsmith025@gmail.com
-      icon: enveloope-paper-heart
+      icon: inbox
     - text: GitHub
-      href: github.com/norsmith025
+      href: https://github.com/norsmith025
       icon: github
     - text: Resume
       href: resume.pdf
       icon: file-earmark-person
 ---
 
-Hey there, thanks for stopping by my website! I'm Nora and I'm a fourth-year undergraduate at UC Santa Barbara majoring in Environmental Studies.
+Hey there, thanks for stopping by my website! I'm Nora and I'm a fourth-year undergraduate at UC Santa Barbara majoring in Environmental Studies. I'm from San Jose, CA, just about 4.5 hours north of sunny Santa Barbara, and grew up going to the Santa Cruz beaches all the time. I transfered here as a third-year from De Anza Community College in Cupertino, CA, but before that I went to Portland State University for my Freshman year before I decided that the coast was calling me back. I'll be finishing up my studies here this summer (2025) and can't wait to see what the future holds!
 
 ## Education
 
@@ -27,3 +27,9 @@ Hey there, thanks for stopping by my website! I'm Nora and I'm a fourth-year und
 BS in Environmental Studies (Expected June 2025)
 
 **Abraham Lincoln High School** \| San Jose, CA (2021)
+
+## Work
+
+**Santa Barbara Wildlife Care Network**
+
+What I do there: Facilitate daily operations (feeding schedules, laundry, clean-up), Assist with animal check-ins
