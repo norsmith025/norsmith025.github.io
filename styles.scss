@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wdth,wght@112.5,200..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 // Colors 
-$green: #546b4f;
+$green: #3a5236;
 $ivoryish: #d4cebe;
 $light-brown: #8f7469;
 $dark-brown: #483b32;
@@ -16,3 +16,29 @@ $navbar-hl: $light-brown; // hover highlight over navbar
 $body-bg: $almost-white; // page background
 $body-color: $dark-brown; // page text
 $buttons: $ivoryish; // buttons
+
+/*-- scss:rules --*/
+h1, h2 {
+  font-family: 'Playfair-Display', serif;
+  letter-spacing: normal;
+  font-weight: 600;
+  color: $green;
+  
+}
+
+.title {
+  font-family: 'Playfair-Display', serif;
+  color: $green;
+  font-weight: 800;
+  letter-spacing: normal;
+}
+
+.navbar-brand img{
+  max-height: 60px;
+  width: auto;
+}
+
+.figure-caption {
+  text-align: center;
+}
+

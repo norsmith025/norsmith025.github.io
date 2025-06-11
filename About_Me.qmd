@@ -4,6 +4,26 @@ title: "About Me"
 
 As you've probably figured out by now, my name is Nora Smith and I'm going to be graduating from UCSB soon with my Bachelor's of Science in Environmental Studies, but there's more to me than that.
 
-I'll start with the basics, I have 3 cats at home, two of which are mine, and one that's my parents'. My two cats, Pigeon and Minnow, are going to be turning 5 this July(ish), and my childhood cat, Marcel, is an old man now at 17.
+I'll start with the basics, I have 3 cats at home, two of which are mine, and one that's my parents'. My two cats, Pigeon and Minnow, are going to be turning 5 this July(ish), and my childhood cat, Marcel, is an old man now at 17. We rescued Marcel from our backyard when I was going into Kindergarten, and then we did the same thing for Pigeon and Minnow when I was going into my Senior year of high school. I also have a jumping spider, and he likes to watch TV with me and my roommates from his enclosure, but I won't include a picture of him because he can freak people out sometimes.
 
-pictures of cats and maybe like one of me
+<div style="width: 750px; margin: 0 auto; overflow: hidden;">
+
+<figure style="float: left; width: 240px; margin: 0 10px 0 0; text-align: center;"><img src="images/minnow.jpeg" width="240" alt="Minnow in a box"><figcaption>Minnow</figcaption></figure>
+
+<figure style="float: left; width: 240px; margin: 0 10px 0 0; text-align: center;"><img src="images/pigeon.jpeg" width="240" alt="Pigeon in the sun"><figcaption>Pigeon</figcaption></figure>
+
+<figure style="float: left; width: 240px; margin: 0; text-align: center;"><img src="images/marcel.jpeg" width="240" alt="Marcel on the couch"><figcaption>Marcel</figcaption></figure>
+
+</div>
+
+Aside from my pets, I love spending time outside, whether it be going on a hike or lounging around at the beach. I grew up going up to Redding, CA a lot, so I also got to spend time out of the city-scape of San Jose and enjoy the beauty of the Sacramento River and Mt. Shasta. One thing that I've picked up from my time in Santa Barbara is tidepooling, which I had never really done at the Santa Cruz beaches, but I had gone a few times in Monterrey.
+
+<div style="width: 900px; margin: 0 auto; overflow: hidden;">
+
+<figure style="float: left; width: 240px; margin: 0 5px 0 0; text-align: center;"><img src="images/sac_river.jpeg" height="300px; width: 100%; object-fit: cover;" alt="Sacramento River from Sundial Bridge, Redding"><figcaption>Sacramento River from Sundial Bridge, Redding, CA</figcaption></figure>
+
+<figure style="float: left; margin: 0 5px 0 0; text-align: center;"><img src="images/mt_shasta.JPG" height="300px; width: 100%; object-fit: cover;" alt="Mt. Shasta from CA I-5"><figcaption>Mt. Shasta from CA I-5</figcaption></figure>
+
+<figure style="float: left; width: 240px; margin: 0 ; text-align: center;"><img src="images/lake_siskiyou.jpeg" height="300px; width: 100%; object-fit: cover;" alt="Camp site at Lake Siskiyou Camp Grounds"><figcaption>Lake Siskiyou Camp Grounds</figcaption></figure>
+
+</div>

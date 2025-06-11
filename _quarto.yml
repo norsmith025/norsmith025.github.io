@@ -4,8 +4,9 @@ project:
 
 website:
   title: "Nora Smith"
-  favicon: NS_logo_transparent.png
+  favicon: ns_logo.png
   navbar:
+    logo: ns_logo.png
     left:
       - href: index.qmd
         text: Home
