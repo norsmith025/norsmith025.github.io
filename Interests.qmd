@@ -9,6 +9,16 @@ I couldn't decide on one of my interests to talk about, so I thought that I woul
 
 I grew up in San Jose during the San Jose Sharks "Golden Era," so how could I not love hockey. I got to grow up watching all of their playoff runs, year after year, and now comes the time that I get to watch them rebuild a new core with the hopes of reaching their next new generation of top tier players. I went to my first hockey game when I was a toddler, and cried over the shark head that the team skates out of, and I got a free SJ Sharkie plushie out of it. I also think that hockey is just one of the most interesting sports, since it's fast paced, you can see the plays develop, and you don't get super hot sitting out in the stands all day in the sun.
 
+<div style="width: 750px; margin: 0 auto; overflow: hidden;">
+
+<figure style="float: left; width: 240px; margin: 0 10px 0 0; text-align: center;"><img src="images/sharks_head_overhead.jpeg" height="300" alt="Shark Tank before the game"><figcaption>Shark Head Lowering to the Ice</figcaption></figure>
+
+<figure style="float: left; width: 240px; margin: 0 10px 00; text-align: center;"><img src="images/sharks_win.JPG" height="300" alt="SJ Sharkie hoisting the Sharks win flag"><figcaption>SJ Sharkie with win sign</figcaption></figure>
+
+<figure style="float: left; width: 240px; margin: 0; text-align: center;"><img src= "images/ice_rink.JPG" height="300" alt="SAP Center during Sharks Intermission"><figcaption>SAP Center during Sharks Intermission</figcaption></figure>
+
+</div>
+
 ### Cooking
 
 Another thing that I have been super into recently is cooking. I've always enjoyed baking, but I over the past year I've started finding more recipes online and making dinner for me and my friends. I realized that cooking and baking aren't too different, and cooking offers a lot more freedom since it doesn't have to be as exact as baking because a little bit too much of one ingredient isn't going to jeopardize how it cooks. I wanted to include some of the things that I've made recently, but I realized that I don't have any pictures of it. That being said, the last couple things I've made were: chicken tikka masala, creamy mushroom pasta, and a chili oil vodka sauce with pasta.
@@ -16,3 +26,21 @@ Another thing that I have been super into recently is cooking. I've always enjoy
 ### Traveling
 
 One of the things I wish I could do more, but can't right now given my schedule, is traveling. I used to travel a lot with my parents over the summer between the school years, and we went to some super cool places. I've been to London, Dublin, a few different cities in Italy, Austria, France, and more. I'm really hoping that after I graduate I'll get the chance to travel more. Some of the places that I haven't been, but would really like to visit are Amsterdam, Greece, and Spain.
+
+::: {style="width: 800px; margin: 0 auto; display: flex; justify-content: center; gap: 20px;"}
+<figure style="width: 100%; height: 300px; text-align: center;">
+
+<img src="images/templebar.png" alt="Temple Bar, Dublin, Ireland" style="width: 100%; height: 300px; object-fit: cover;"/>
+
+<figcaption>Temple Bar, Dublin, Ireland</figcaption>
+
+</figure>
+
+<figure style="width: 100%; height: 300px; text-align: center;">
+
+<img src="images/kings_cross.jpeg" alt="King&apos;s Cross Station" style="width: 100%; height: 300px; object-fit: cover;"/>
+
+<figcaption>King's Cross Station, London, England</figcaption>
+
+</figure>
+:::

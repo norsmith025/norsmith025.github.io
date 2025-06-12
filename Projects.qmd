@@ -17,7 +17,7 @@ Here are some projects that I've worked on during my time at UCSB.
 
 ### Statistical Analysis (From ENVS193DS):
 
-<iframe src="https://norsmith025.github.io/ENVS-193DS_spring-2025_final/envs193ds_spr25_final/envs193ds_spr25_final.html" width="90%" height="600px" frameborder="0"></iframe>
+<iframe src="https://norsmith025.github.io/ENVS-193DS_spring-2025_final/envs193ds_spr25_final.html" width="90%" height="450px" frameborder="0" allowfullscreen></iframe>
 
 </div>
 
