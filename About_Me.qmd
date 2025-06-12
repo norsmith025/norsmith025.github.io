@@ -40,7 +40,6 @@ Here's an interactive map of some of my favorite places I've been to, or frequen
 ```{r}
 #| echo: FALSE
 
-install.packages("leaflet")
 library(leaflet)
 
 leaflet() %>%
@@ -52,5 +51,6 @@ leaflet() %>%
   addMarkers(lng = 107.068, lat = 20.908, popup = "Ha Long Bay, Ha Long, Vietnam") %>%
   addMarkers(lng = 12.046, lat = 47.798, popup = "Salzburg, Austria") %>% 
   addMarkers(lng = 9.655, lat = 44.147, popup = "Monterosso al Mare, La Spezia, Italy")
+
   
 ```
