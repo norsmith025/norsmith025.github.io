@@ -35,4 +35,22 @@ Aside from my pets, I love spending time outside, whether it be going on a hike 
 
 ### Some of my favorite places!
 
-\*interactive map here
+Here's an interactive map of some of my favorite places I've been to, or frequent a lot.
+
+```{r}
+#| echo: FALSE
+
+install.packages("leaflet")
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = -121.901, lat = 37.333, popup = "SAP Center (Shark Tank), San Jose, CA") %>%
+  addMarkers(lng = -6.263, lat = 53.343, popup = "Dublin, Ireland") %>%
+  addMarkers(lng = -122.674, lat = 45.515, popup = "Portland, OR") %>%
+  addMarkers(lng = -122.309, lat = 41.316, popup = "Mt. Shasta, CA") %>%
+  addMarkers(lng = 107.068, lat = 20.908, popup = "Ha Long Bay, Ha Long, Vietnam") %>%
+  addMarkers(lng = 12.046, lat = 47.798, popup = "Salzburg, Austria") %>% 
+  addMarkers(lng = 9.655, lat = 44.147, popup = "Monterosso al Mare, La Spezia, Italy")
+  
+```
